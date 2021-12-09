@@ -21,7 +21,7 @@ while (true) {
 //Transform Data
 console.log(numberOrder(numbers));
 
-//Function when ordered the numbers
+//Function that ordered the numbers
 function numberOrder(vect) {
   let n = numbers.length;
 
